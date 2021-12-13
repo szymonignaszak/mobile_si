@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "450OJ31VD1Ty6VeY5hdWsFLtCQhhGue5jeviCLF/9KEOYltL2ZjlGtn6Pb0sz9jMjRgjV9pooJDw0WqTcPwZYw==",
+  "success": true,
+  "projectFilePath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword.iOS/Phoneword.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/szymonignaszak/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/szymonignaszak/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/szymonignaszak/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

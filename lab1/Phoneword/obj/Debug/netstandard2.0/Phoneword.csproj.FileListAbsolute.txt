@@ -1,0 +1,14 @@
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.deps.json
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.dll
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/bin/Debug/netstandard2.0/ref/Phoneword.dll
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.pdb
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csproj.AssemblyReference.cache
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfoInputs.cache
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfo.cs
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csproj.CoreCompileInputs.cache
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.dll
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/ref/Phoneword.dll
+/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.pdb
