@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "morBUjTC51X8z5LP4w9grREwzcAG8qphtctukdZWfYQu2aHCJXis0ujHxqIS+y3qI6xJvlWK8pVXfdCqyapCgw==",
+  "dgSpecHash": "8sV8Li6xB/xipZsHtVhLMVDv9TTg4SljgdkMk4ZfexBf+pJyZlxB80530RUWFOXX1MzGEX3Chxu8MMzg5bd0Zg==",
   "success": true,
-  "projectFilePath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword.Android/Phoneword.Android.csproj",
+  "projectFilePath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword.Android/Phoneword.Android.csproj",
   "expectedPackageFiles": [
     "/Users/szymonignaszak/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/szymonignaszak/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

@@ -996,11 +996,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/szymonignaszak/Projects/Phoneword/Phoneword.iOS/Phoneword.iOS.csproj",
+      "projectUniqueName": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword.iOS/Phoneword.iOS.csproj",
       "projectName": "Phoneword.iOS",
-      "projectPath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword.iOS/Phoneword.iOS.csproj",
+      "projectPath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword.iOS/Phoneword.iOS.csproj",
       "packagesPath": "/Users/szymonignaszak/.nuget/packages/",
-      "outputPath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword.iOS/obj/",
+      "outputPath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1015,8 +1015,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj": {
-              "projectPath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj"
+            "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj": {
+              "projectPath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj"
             }
           }
         }

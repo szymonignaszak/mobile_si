@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/szymonignaszak/Projects/Phoneword/Phoneword.Android/Phoneword.Android.csproj": {}
+    "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword.Android/Phoneword.Android.csproj": {}
   },
   "projects": {
-    "/Users/szymonignaszak/Projects/Phoneword/Phoneword.Android/Phoneword.Android.csproj": {
+    "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword.Android/Phoneword.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/szymonignaszak/Projects/Phoneword/Phoneword.Android/Phoneword.Android.csproj",
+        "projectUniqueName": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword.Android/Phoneword.Android.csproj",
         "projectName": "Phoneword.Android",
-        "projectPath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword.Android/Phoneword.Android.csproj",
+        "projectPath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword.Android/Phoneword.Android.csproj",
         "packagesPath": "/Users/szymonignaszak/.nuget/packages/",
-        "outputPath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword.Android/obj/",
+        "outputPath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj": {
-                "projectPath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj"
+              "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj": {
+                "projectPath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj": {
+    "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj",
+        "projectUniqueName": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj",
         "projectName": "Phoneword",
-        "projectPath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj",
+        "projectPath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj",
         "packagesPath": "/Users/szymonignaszak/.nuget/packages/",
-        "outputPath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/",
+        "outputPath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/szymonignaszak/.config/NuGet/NuGet.Config"

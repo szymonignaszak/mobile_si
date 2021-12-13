@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj": {}
+    "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj": {}
   },
   "projects": {
-    "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj": {
+    "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj",
+        "projectUniqueName": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj",
         "projectName": "Phoneword",
-        "projectPath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword/Phoneword.csproj",
+        "projectPath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/Phoneword.csproj",
         "packagesPath": "/Users/szymonignaszak/.nuget/packages/",
-        "outputPath": "/Users/szymonignaszak/Projects/Phoneword/Phoneword/obj/",
+        "outputPath": "/Users/szymonignaszak/Projects/mobile_si/Phoneword/Phoneword/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/szymonignaszak/.config/NuGet/NuGet.Config"
